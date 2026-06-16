@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Namespace
 metadata:
   labels:
-    name: itops
+    name: itops01
   annotations:
     contoso.com/owner: "ops@contoso.com"
-  name: itops
+  name: itops01
